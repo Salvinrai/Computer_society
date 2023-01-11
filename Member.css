@@ -261,6 +261,14 @@
   .u-section-1-1 .u-layout-cell-3 {
     min-height: 371px;
   }
+  .work_face{
+    flex-direction: column;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+  .phase{
+    margin-bottom: 10px;
+  }
 }
 
 @media (max-width: 575px) {
