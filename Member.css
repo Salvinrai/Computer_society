@@ -2355,6 +2355,14 @@
   .u-section-3-11 .u-text-3 {
     margin-right: -22px;
   }
+  .work_face{
+    flex-direction: column;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+  .phase{
+    margin-bottom: 10px;
+  }
 }
 
 @media (max-width: 575px) {
