@@ -2,6 +2,20 @@
   position: absolute;
   bottom: 10px;
 }
+.u-header .u-text-1 {
+  text-transform: none;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: -37px 786px 14px 63px;
+}
+.u-footer .u-sheet-1 {
+  min-height: 169px;
+}
+.u-footer .u-group-1 {
+  width: 570px;
+  min-height: 158px;
+  margin:  auto;
+}
 
 .u-block-b75c-3 {
   position: absolute;
@@ -88,7 +102,7 @@
 
 /* ----------------------------------------------------for society face-------------------------------- */
 .member_details{
-  background: antiquewhite;
+  background: #fff;
   display: flex;
   flex-direction: column;
 
